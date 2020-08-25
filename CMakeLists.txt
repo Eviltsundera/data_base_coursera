@@ -1,3 +1,4 @@
+Запуш у свой бранч последние изменения.
 cmake_minimum_required(VERSION 3.15)
 project(data_base)
 
